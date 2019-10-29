@@ -1,6 +1,6 @@
 # Youtube Playlist Downloader
 
-## Download your Youtube playlist to mp3 with ease
+## Download and convert your Youtube playlist to mp3 with ease
 
 ### How to use:
 1) Install dependencies
