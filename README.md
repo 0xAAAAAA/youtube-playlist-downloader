@@ -1,0 +1,25 @@
+# Youtube Playlist Downloader
+
+## Download your Youtube playlist to mp3 with ease
+
+### How to use:
+1) Install dependencies
+
+```bash
+npm install
+```
+
+2) Put your Youtube playlist URL in `index.js` on **line 8**
+
+![image1](variable.png)
+
+3) Run the file
+
+```bash
+node index.js
+```
+
+### Requirements:
+- Node.js
+- Windows
+- ffmpeg
