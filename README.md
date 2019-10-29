@@ -19,6 +19,8 @@ npm install
 node index.js
 ```
 
+4) JAM!!
+
 ### Requirements:
 - Node.js
 - Windows
